@@ -1,0 +1,8 @@
+{
+	"prog": "terminal",
+
+    "smk" : {
+        "prog": "terminal",
+        "bracketed_paste_mode": true
+    },
+}

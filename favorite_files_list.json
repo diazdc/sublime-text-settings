@@ -1,0 +1,92 @@
+{
+    "files": [],
+    "groups": {
+        "Enhancer project CSAW": [
+            {
+                "alias": "csaw_regen_unique_v1.1_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/js2223-enhcr/call-diff-peaks/scripts/csaw_regen_unique_v1.1_.R"
+            },
+            {
+                "alias": "csaw_regen_mmapped_v1.1_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/js2223-enhcr/call-diff-peaks/scripts/csaw_regen_mmapped_v1.1_.R"
+            }
+        ],
+        "Macrophage full data sets": [
+            {
+                "alias": "2626_mphg_full_homeo_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2626/Seurat3/2626_mphg_full_homeo_seurat3_v1.0_.R"
+            },
+            {
+                "alias": "2719_mphg_full_15min_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2719/Seurat3/2719_mphg_full_15min_seurat3_v1.0_.R"
+            },
+            {
+                "alias": "2633_mphg_full_1hr_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2633/Seurat3/2633_mphg_full_1hr_seurat3_v1.0_.R"
+            },
+            {
+                "alias": "2639_mphg_full_3hr_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2639/Seurat3/2639_mphg_full_3hr_seurat3_v1.0_.R"
+            },
+            {
+                "alias": "2645_mphg_full_5hr_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2645/Seurat3/2645_mphg_full_5hr_seurat3_v1.0_.R"
+            }
+        ],
+        "Macrophage reduced models": [
+            {
+                "alias": "2626_mphg_homeo_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2626/Seurat3/2626_mphg_homeo_seurat3_v1.0_.R"
+            },
+            {
+                "alias": "2719_mphg_15min_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2719/Seurat3/2719_mphg_15min_seurat3_v1.0_.R"
+            },
+            {
+                "alias": "2633_mphg_1hr_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2633/Seurat3/2633_mphg_1hr_seurat3_v1.0_.R"
+            },
+            {
+                "alias": "2639_mphg_3hr_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2639/Seurat3/2639_mphg_3hr_seurat3_v1.0_.R"
+            },
+            {
+                "alias": "2645_mphg_5hr_seurat3_v1.0_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2645/Seurat3/2645_mphg_5hr_seurat3_v1.0_.R"
+            }
+        ],
+        "Macrophage scRNAseq Sep.19 Update": [
+            {
+                "alias": "2626_mphg_homeo_seurat3_v1.1_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2626/Seurat3/2626_mphg_homeo_seurat3_v1.1_.R"
+            },
+            {
+                "alias": "2719_mphg_15min_seurat3_v1.1_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2719/Seurat3/2719_mphg_15min_seurat3_v1.1_.R"
+            },
+            {
+                "alias": "2633_mphg_1hr_seurat3_v1.1_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2633/Seurat3/2633_mphg_1hr_seurat3_v1.1_.R"
+            },
+            {
+                "alias": "2639_mphg_3hr_seurat3_v1.1_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2639/Seurat3/2639_mphg_3hr_seurat3_v1.1_.R"
+            },
+            {
+                "alias": "2645_mphg_5hr_seurat3_v1.1_.R",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/MOLNG2645/Seurat3/2645_mphg_5hr_seurat3_v1.1_.R"
+            }
+        ],
+        "Regeneration documentation": [
+            {
+                "alias": "Summary.md",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/sb2191-regen/regen-summary/docs/Summary.md"
+            },
+            {
+                "alias": "mkdocs.yml",
+                "file": "/Volumes/projects/ddiaz/Analysis/Scripts/sb2191-regen/regen-summary/mkdocs.yml"
+            }
+        ]
+    },
+    "version": 2
+}

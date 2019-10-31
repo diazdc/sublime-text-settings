@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the R syntax
+{
+    "margin": 2,
+    "tab_size": 2
+}

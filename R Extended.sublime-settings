@@ -1,0 +1,4 @@
+// These settings override both User and Default settings for the R Extended syntax
+{
+	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme"
+}

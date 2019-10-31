@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"ColorSchemeEditor",
+		"ColorSchemeSelector",
+		"Compare Side-By-Side",
+		"FavoriteFiles",
+		"Fix Mac Path",
+		"Git",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Monokai - Spacegray",
+		"Monokai++",
+		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
+		"R-IDE",
+		"RawLineEdit",
+		"SendCode",
+		"SideBarEnhancements",
+		"Sublime Bookmarks",
+		"Theme - One Dark"
+	]
+}
