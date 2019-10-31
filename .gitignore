@@ -1,0 +1,14 @@
+# Ignore everything...
+# *
+# ... except preferences
+Package Control.cache/
+# !Preferences.sublime-settings
+# !Package Control.sublime-settings
+# !Plain text.sublime-settings
+# !R Extended.sublime-settings
+# !SendCode.sublime-settings
+# !SublimeREPL.sublime-settings
+# !Default (OSX).sublime-keymap
+# !Main.sublime-menu
+# !Agila Neon Monocyanide Modded.tmTheme
+# !Agila Dracula Modded.sublime-theme
