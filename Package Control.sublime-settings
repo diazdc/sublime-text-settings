@@ -12,7 +12,6 @@
 		"Compare Side-By-Side",
 		"FavoriteFiles",
 		"Fix Mac Path",
-		"Git",
 		"MarkdownEditing",
 		"MarkdownTOC",
 		"Monokai - Spacegray",
@@ -24,6 +23,7 @@
 		"SendCode",
 		"SideBarEnhancements",
 		"Sublime Bookmarks",
-		"Theme - One Dark"
+		"Theme - One Dark",
+		"WordHighlight"
 	]
 }

@@ -1,4 +1,19 @@
 {
+	"added_words":
+	[
+		"Neuromast",
+		"interneuromast",
+		"Pseudotime",
+		"neuromast",
+		"homeo",
+		"heatmap",
+		"neo",
+		"Dendrogram",
+		"unmerged",
+		"subsetted",
+		"elife",
+		"grey"
+	],
 	"anaconda_linting": false,
 	"auto_complete_commit_on_tab": true,
 	"binary_file_patterns":
@@ -21,19 +36,26 @@
 	"color_scheme": "Packages/User/Monokai - Spacegray Modded.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": "all",
-	"font_face": "Victor Mono SemiBold",
+	"font_face": "Fira Code",
 	"font_options":
 	[
 		"gray_antialias",
-		"subpixel_antialias",
-		"no_liga"
+		"subpixel_antialias"
+		// "no_liga"
 	],
-	"font_size": 17,
+	"font_size": 15,
 	"highlight_line": false,
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
+	],
+	"ignored_words":
+	[
+		"0min",
+		"10hrs",
+		"1hr",
+		"30min"
 	],
 	"match_brackets": false,
 	"match_brackets_braces": false,
