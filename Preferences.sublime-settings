@@ -41,7 +41,6 @@
 	[
 		"gray_antialias",
 		"subpixel_antialias"
-		// "no_liga"
 	],
 	"font_size": 15,
 	"highlight_line": false,
