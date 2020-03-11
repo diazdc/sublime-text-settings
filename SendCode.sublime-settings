@@ -1,8 +1,13 @@
 {
 	"prog": "terminal",
-
-    "smk" : {
-        "prog": "terminal",
-        "bracketed_paste_mode": true
-    },
+	"r":
+	{
+		"bracketed_paste_mode": false,
+		"prog": "terminal"
+	},
+	"smk":
+	{
+		"bracketed_paste_mode": true,
+		"prog": "iTerm"
+	}
 }

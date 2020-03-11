@@ -66,9 +66,10 @@
 	"mini_diff": false,
 	"rulers":
 	[
-		79
+		80
 	],
-	"theme": "Adaptive.sublime-theme",
+	"show_full_path": true,
+	"theme": "One Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
