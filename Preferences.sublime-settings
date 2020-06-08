@@ -36,13 +36,12 @@
 	"color_scheme": "Packages/User/Monokai - Spacegray Modded.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": "all",
-	"font_face": "Fira Code",
+	"font_face": "Fira Code Light",
 	"font_options":
 	[
-		"gray_antialias",
-		"subpixel_antialias"
 	],
-	"font_size": 15,
+	"font_size": 14,
+	"gpu_window_buffer": false,
 	"highlight_line": false,
 	"ignored_packages":
 	[
@@ -64,12 +63,13 @@
 	"mdpopups.sublime_user_lang_map": null,
 	"mdpopups.use_sublime_highlighter": null,
 	"mini_diff": false,
+	"open_files_in_new_window": false,
 	"rulers":
 	[
 		80
 	],
 	"show_full_path": true,
-	"theme": "One Dark.sublime-theme",
+	"theme": "Cyanide - Sky.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
